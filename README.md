@@ -1,128 +1,118 @@
+<img src="./assets/github-header.svg" width="100%" alt="Najib Jioudi — Full Stack and AI Engineer" />
+
 <div align="center">
 
-Najib Jioudi
+### I build intelligent software that connects AI with real-world operations.
 
-Full Stack & AI Engineer
+Full Stack & AI Engineer focused on **LLM applications, RAG, AI agents, microservices, observability and automation**.
 
-Building intelligent, observable, and scalable software systems.
-
-I work at the intersection of software engineering, artificial intelligence, and IT operations, creating practical systems powered by LLMs, RAG, multi-agent workflows, automation, and modern web technologies.
-
-
+[LinkedIn](https://www.linkedin.com/in/najib-jioudi/) · [Email](mailto:jioudinajib@gmail.com)
 
 </div>
 
-Profile
+---
 
-I am a Full Stack & AI Engineer with an engineering degree in Computer Science and Networks.
+## About
 
-I design and develop end-to-end software products that combine reliable backend services, modern user interfaces, intelligent AI workflows, and operational automation. My goal is to turn complex technical problems into systems that are useful, maintainable, observable, and ready for real-world use.
+I am an engineer in **Computer Science and Networks** who enjoys taking ideas from architecture to production.
 
-I am particularly interested in:
+My work combines modern full-stack development with applied AI: designing APIs and microservices, building clean user interfaces, orchestrating intelligent workflows, and making systems observable, secure and maintainable.
 
-AI engineering: LLM applications, RAG, AI agents, local inference, and evaluation
+> **Current focus:** reliable AI systems, AIOps, local LLMs, multimodal applications and self-improving agent workflows.
 
-Full-stack development: APIs, microservices, dashboards, and modern web applications
+---
 
-AIOps and automation: monitoring, incident analysis, workflow orchestration, and remediation
-
-Software architecture: scalable services, event-driven workflows, and secure system design
-
-Applied research: self-improving AI systems and efficient communication between AI agents
-
-What I Build
+## What I Work On
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
-Intelligent Applications
-
-LLM-powered applications, RAG pipelines, AI agents, document intelligence, multimodal analysis, and local AI systems.
-
+<h3>AI Engineering</h3>
+LLM applications, RAG pipelines, agents, local inference, multimodal analysis and evaluation.
 </td>
 <td width="33%" valign="top">
-
-Full-Stack Platforms
-
-Modern web applications with robust APIs, responsive interfaces, authentication, data management, and modular architectures.
-
+<h3>Full-Stack Systems</h3>
+Modern interfaces, backend APIs, microservices, authentication, databases and scalable architecture.
 </td>
 <td width="33%" valign="top">
-
-AIOps & Automation
-
-Systems for monitoring, incident triage, root-cause analysis, observability, workflow orchestration, and human-approved remediation.
-
+<h3>AIOps & Automation</h3>
+Monitoring, incident analysis, workflow orchestration, observability and human-approved remediation.
 </td>
 </tr>
 </table>
 
-Core Toolkit
+---
 
-AI Engineering
+## Selected Projects
 
+### [Real-Time Anti-Cheating & Proctoring System](https://github.com/najibjioudi/anti_cheat_sys)
 
+AI-powered exam monitoring with real-time facial tracking, gaze analysis, behavioral rules and WebSocket video processing.
 
-Backend & Architecture
+`FastAPI` `React` `OpenCV` `MediaPipe` `WebSockets`
 
+### [Multilingual Symptom AI Assistant](https://github.com/najibjioudi/symptom_ai_assis_backend)
 
+A multilingual assistant built around a microservice architecture, secure user management, conversational AI, speech-to-text and text-to-speech services.
 
-Frontend
+`Spring Boot` `Spring Cloud` `Python` `MySQL` `JWT` `STT / TTS`
 
+### [Secure E-Voting Platform](https://github.com/najibjioudi/mini_projet_e_voting)
 
+A full-stack electronic voting platform with distributed services, identity verification, role-based security and real-time election management.
 
-Infrastructure, Data & Observability
+`Java` `Spring Boot` `React` `TypeScript` `OCR` `Microservices`
 
+---
 
+## Technology Stack
 
-Engineering Principles
+**AI & Data**
 
-Production-minded      Build beyond the prototype
-Observable by design   Make behavior, failures, and performance visible
-Human-in-the-loop      Keep critical AI decisions reviewable
-Local-first when useful Protect privacy and reduce external dependency
-Simple over clever     Prefer maintainable systems over unnecessary complexity
+<kbd>Python</kbd> <kbd>LangGraph</kbd> <kbd>RAG</kbd> <kbd>LLM Agents</kbd> <kbd>Ollama</kbd> <kbd>ChromaDB</kbd> <kbd>FAISS</kbd> <kbd>OpenCV</kbd>
 
-Current Interests
+**Backend & Architecture**
 
-Self-improving AI systems that evaluate and refine their own workflows
+<kbd>FastAPI</kbd> <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Spring Cloud</kbd> <kbd>Temporal</kbd> <kbd>REST APIs</kbd> <kbd>Microservices</kbd>
 
-Efficient communication protocols for multi-agent AI systems
+**Frontend**
 
-Multimodal AI for transforming videos into structured technical procedures
+<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Material UI</kbd> <kbd>Vite</kbd>
 
-Intelligent automation for IT operations and incident management
+**Infrastructure & Observability**
 
-Reliable local AI using compact open-source models
+<kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>MySQL</kbd> <kbd>OpenSearch</kbd> <kbd>OpenTelemetry</kbd> <kbd>Jaeger</kbd> <kbd>Zabbix</kbd> <kbd>Jira</kbd>
 
-GitHub Activity
+---
+
+## Currently Exploring
+
+- Self-improving AI systems that evaluate and refine their own workflows
+- Efficient communication protocols for multi-agent systems
+- Multimodal AI that converts technical videos into structured procedures
+- Reliable local AI using compact open-source models
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najibjioudi&theme=github_dark" alt="Najib Jioudi's GitHub profile details" />
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najibjioudi&theme=github_dark" alt="Najib Jioudi GitHub activity" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=najibjioudi&theme=github_dark" alt="Najib Jioudi's GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najibjioudi&theme=github_dark" alt="Najib Jioudi's most used languages" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=najibjioudi&theme=github_dark" alt="Najib Jioudi GitHub statistics" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najibjioudi&theme=github_dark" alt="Najib Jioudi languages by repository" />
 
 </div>
 
-<div align="center">
-<sub>Statistics are generated from activity and code visible to public GitHub services.</sub>
-</div>
-
-Contact
-
-I am always happy to connect with engineers, researchers, and teams working on meaningful software and applied AI systems.
+---
 
 <div align="center">
 
+### Let’s build software that is intelligent, useful and dependable.
 
-
-<br/>
-
-Engineering software that connects intelligence with real-world operations.
+[LinkedIn](https://www.linkedin.com/in/najib-jioudi/) · [jioudinajib@gmail.com](mailto:jioudinajib@gmail.com)
 
 </div>

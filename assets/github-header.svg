@@ -1,0 +1,74 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B2035"/>
+      <stop offset="1" stop-color="#083B52"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="650" y1="50" x2="1120" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+
+  <g opacity="0.16" stroke="#38BDF8">
+    <path d="M0 235C180 180 305 290 470 218C640 144 743 226 914 135C1040 68 1111 88 1200 48"/>
+    <path d="M0 266C190 210 333 314 503 242C667 173 789 252 962 163C1077 104 1139 113 1200 82"/>
+    <path d="M610 0L775 300"/>
+    <path d="M730 0L895 300"/>
+    <path d="M850 0L1015 300"/>
+  </g>
+
+  <g opacity="0.38" stroke="url(#accent)" stroke-width="1.5">
+    <path d="M742 82L842 52L927 100L1022 67L1124 126"/>
+    <path d="M708 186L801 137L902 180L994 137L1092 200"/>
+    <path d="M842 52L801 137L927 100L902 180L1022 67L994 137L1124 126L1092 200"/>
+  </g>
+
+  <g fill="#22D3EE" filter="url(#glow)">
+    <circle cx="742" cy="82" r="4"/>
+    <circle cx="842" cy="52" r="5"/>
+    <circle cx="927" cy="100" r="4"/>
+    <circle cx="1022" cy="67" r="5"/>
+    <circle cx="1124" cy="126" r="4"/>
+    <circle cx="708" cy="186" r="4"/>
+    <circle cx="801" cy="137" r="5"/>
+    <circle cx="902" cy="180" r="4"/>
+    <circle cx="994" cy="137" r="5"/>
+    <circle cx="1092" cy="200" r="4"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="735" y="207" width="126" height="38" rx="10" fill="#0F2E43" stroke="#22D3EE"/>
+    <text x="798" y="232" text-anchor="middle" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="14">AI SYSTEMS</text>
+
+    <rect x="877" y="207" width="126" height="38" rx="10" fill="#0F2E43" stroke="#38BDF8"/>
+    <text x="940" y="232" text-anchor="middle" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="14">FULL STACK</text>
+
+    <rect x="1019" y="207" width="126" height="38" rx="10" fill="#0F2E43" stroke="#67E8F9"/>
+    <text x="1082" y="232" text-anchor="middle" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="14">AIOPS</text>
+  </g>
+
+  <text x="64" y="107" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="48">
+    Najib Jioudi
+  </text>
+  <text x="66" y="151" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="25">
+    Full Stack &amp; AI Engineer
+  </text>
+  <rect x="66" y="174" width="92" height="4" rx="2" fill="#22D3EE"/>
+  <text x="66" y="215" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    Intelligent systems · Modern platforms · Operational automation
+  </text>
+  <text x="66" y="249" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">
+    Morocco
+  </text>
+</svg>
