@@ -45,6 +45,15 @@ Monitoring, incident analysis, workflow orchestration, observability and human-a
 
 ## Selected Projects
 
+### [El Flora — Visual UML Editor](https://github.com/najibjioudi/elFlora_UML)
+
+**Open source** · [Live application](https://el-flora.vercel.app/)
+
+A local-first visual UML editor that keeps PlantUML source and an interactive canvas synchronized. It supports seven UML diagram types, draggable elements, editable relationships, smart auto-layout, version history, snapshots, and portable project exports—all directly in the browser.
+
+`React` `TypeScript` `Vite` `CodeMirror 6` `XYFlow` `ELK.js` `Zustand` `IndexedDB`
+
+
 ### [Real-Time Anti-Cheating & Proctoring System](https://github.com/najibjioudi/anti_cheat_sys)
 
 AI-powered exam monitoring with real-time facial tracking, gaze analysis, behavioral rules and WebSocket video processing.
