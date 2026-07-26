@@ -75,9 +75,11 @@ DevOps, Observability & Databases
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=najibjioudi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Najib's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=najibjioudi&theme=github_dark"
+     alt="Najib's GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibjioudi&layout=compact&hide_border=true&theme=transparent" alt="Najib's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najibjioudi&theme=github_dark"
+     alt="Najib's most used languages" />
 
 </div>
 
