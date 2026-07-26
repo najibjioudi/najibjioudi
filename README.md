@@ -1,65 +1,70 @@
 <div align="center">
 
-Hi, I'm Najib Jioudi 👋
+Najib Jioudi
 
 Full Stack & AI Engineer
 
-Building intelligent, observable, and scalable software systems with a focus onAIOps · LLMs · RAG · Multi-Agent Systems · NOC Automation
+Building intelligent, observable, and scalable software systems.
+
+I work at the intersection of software engineering, artificial intelligence, and IT operations, creating practical systems powered by LLMs, RAG, multi-agent workflows, automation, and modern web technologies.
 
 
 
 </div>
 
-👨‍💻 About Me
+Profile
 
-I am a State-Certified Engineer in Computer Science and Networks specializing in Full Stack Development, Artificial Intelligence, and AIOps.
+I am a Full Stack & AI Engineer with an engineering degree in Computer Science and Networks.
 
-I design and build end-to-end applications that combine modern web technologies with intelligent systems. My work includes microservices, LLM-powered workflows, Retrieval-Augmented Generation, multi-agent orchestration, infrastructure monitoring, incident analysis, and automated remediation.
+I design and develop end-to-end software products that combine reliable backend services, modern user interfaces, intelligent AI workflows, and operational automation. My goal is to turn complex technical problems into systems that are useful, maintainable, observable, and ready for real-world use.
 
-🔭 Focused on AI engineering, AIOps, LLMs, RAG, and intelligent automation
+I am particularly interested in:
 
-🧠 Interested in self-improving AI systems and efficient multi-agent communication
+AI engineering: LLM applications, RAG, AI agents, local inference, and evaluation
 
-🏗️ Experienced in building full-stack, microservice-based, and observable platforms
+Full-stack development: APIs, microservices, dashboards, and modern web applications
 
-🌍 Based in Morocco
+AIOps and automation: monitoring, incident analysis, workflow orchestration, and remediation
+
+Software architecture: scalable services, event-driven workflows, and secure system design
+
+Applied research: self-improving AI systems and efficient communication between AI agents
+
+What I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+Intelligent Applications
+
+LLM-powered applications, RAG pipelines, AI agents, document intelligence, multimodal analysis, and local AI systems.
+
+</td>
+<td width="33%" valign="top">
+
+Full-Stack Platforms
+
+Modern web applications with robust APIs, responsive interfaces, authentication, data management, and modular architectures.
+
+</td>
+<td width="33%" valign="top">
+
+AIOps & Automation
+
+Systems for monitoring, incident triage, root-cause analysis, observability, workflow orchestration, and human-approved remediation.
+
+</td>
+</tr>
+</table>
+
+Core Toolkit
+
+AI Engineering
 
 
-🚀 Featured Work
 
-AIOps NOC Automation Platform
-
-An intelligent platform designed to automate the complete lifecycle of NOC incidents.
-
-Alert ingestion from monitoring systems
-
-Intelligent triage and prioritization
-
-Root Cause Analysis and business-impact evaluation
-
-AI-generated remediation plans
-
-Human approval, refinement, rollback, and execution workflows
-
-LLM observability, tracing, latency, and usage monitoring
-
-Secure role-based access and audit logging
-
-Multilingual Medical RAG Assistant
-
-A multilingual assistant that answers medical symptom-related questions in Arabic, French, and English using a local Retrieval-Augmented Generation pipeline.
-
-AI Network Assistant & Anomaly Detection
-
-A platform combining a conversational AI assistant, database interaction, and anomaly detection for telecom and IoT network data.
-
-🛠️ Technology Stack
-
-AI & Data
-
-
-
-Backend & Orchestration
+Backend & Architecture
 
 
 
@@ -67,30 +72,57 @@ Frontend
 
 
 
-DevOps, Observability & Databases
+Infrastructure, Data & Observability
 
 
 
-📊 GitHub Activity
+Engineering Principles
+
+Production-minded      Build beyond the prototype
+Observable by design   Make behavior, failures, and performance visible
+Human-in-the-loop      Keep critical AI decisions reviewable
+Local-first when useful Protect privacy and reduce external dependency
+Simple over clever     Prefer maintainable systems over unnecessary complexity
+
+Current Interests
+
+Self-improving AI systems that evaluate and refine their own workflows
+
+Efficient communication protocols for multi-agent AI systems
+
+Multimodal AI for transforming videos into structured technical procedures
+
+Intelligent automation for IT operations and incident management
+
+Reliable local AI using compact open-source models
+
+GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=najibjioudi&theme=github_dark"
-     alt="Najib's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najibjioudi&theme=github_dark" alt="Najib Jioudi's GitHub profile details" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najibjioudi&theme=github_dark"
-     alt="Najib's most used languages" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=najibjioudi&theme=github_dark" alt="Najib Jioudi's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najibjioudi&theme=github_dark" alt="Najib Jioudi's most used languages" />
 
 </div>
 
-🤝 Let's Connect
+<div align="center">
+<sub>Statistics are generated from activity and code visible to public GitHub services.</sub>
+</div>
 
-I enjoy discussing intelligent systems, software architecture, AIOps, applied AI, and research-oriented engineering projects.
+Contact
 
-LinkedIn: linkedin.com/in/najib-jioudi
+I am always happy to connect with engineers, researchers, and teams working on meaningful software and applied AI systems.
 
 <div align="center">
 
-Turning operational challenges into intelligent software systems.
+
+
+<br/>
+
+Engineering software that connects intelligence with real-world operations.
 
 </div>
