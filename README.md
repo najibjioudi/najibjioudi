@@ -6,7 +6,7 @@
 
 Full Stack & AI Engineer focused on **LLM applications, RAG, AI agents, microservices, observability and automation**.
 
-[LinkedIn](https://www.linkedin.com/in/najib-jioudi/) · [Email](mailto:jioudinajib@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/najib-jioudi/)
 
 </div>
 
@@ -113,6 +113,6 @@ A full-stack electronic voting platform with distributed services, identity veri
 
 ### Let’s build software that is intelligent, useful and dependable.
 
-[LinkedIn](https://www.linkedin.com/in/najib-jioudi/) · [jioudinajib@gmail.com](mailto:jioudinajib@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/najib-jioudi/)
 
 </div>
